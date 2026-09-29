@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Seu Banner Novo (Certifique-se de usar o link correto aqui) -->
-  <img src="https://i.imgur.com/9vUjG0M.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <!-- SEU BANNER COM O LINK CORRETO -->
+  <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
 
@@ -15,7 +15,7 @@
 <!-- Linha Horizontal Sutil -->
 <hr>
 
-<!-- Bloco "About Me" com Alinhamento Lateral (Tabela Invisível) -->
+<!-- Bloco "About Me" com Alinhamento Lateral -->
 <h3>⚡ About Me</h3>
 
 <table width="100%">
@@ -27,8 +27,8 @@
       <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- GIF/Imagem lateral (Pode usar o seu avatar ou outro GIF em pixel art) -->
-      <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="160px" />
+      <!-- GIF/Imagem lateral -->
+      <img src="https://media1.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="160px" />
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@
 
   <br/><br/>
 
-  <!-- Bloco "Tech Stack" (Organizado e Minimalista) -->
+  <!-- Bloco "Tech Stack" -->
   <h3>🛠️ Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +64,7 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" (Tema Escuro) -->
+  <!-- Bloco "GitHub Stats" -->
   <h3>📊 GitHub Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
