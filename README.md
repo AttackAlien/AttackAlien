@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner na proporção certa, sem esticar -->
-  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" style="border-radius: 12px;" />
+  <!-- Banner horizontal próprio para GitHub (não distorce) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=150&section=header&text=Welcome%20To%20My%20Profile&fontSize=24&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
