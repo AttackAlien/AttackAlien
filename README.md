@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Banner do Topo -->
+  <!-- Banner do Topo (Link Original) -->
   <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
@@ -14,25 +14,26 @@
 
 <br/>
 
-<!-- Bloco "About Me" com Tabela Invisível (Sem bordas, alinhado perfeitamente) -->
+<!-- Bloco "About Me" (Layout Fluido - Sem Tabela) -->
 <h3 align="center">⚡ About Me</h3>
 
-<table width="100%" style="border: none; background: transparent;">
-  <tr>
-    <td width="60%" align="left" valign="middle" style="border: none;">
-      <p>Fanta, Here — focado em desenvolvimento, automações e performance.</p>
-      <p>Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas.</p>
-      <p>Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos.</p>
-      <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <!-- Seu GIF formatado e sem bordas pesadas -->
-      <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" width="220px" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="max-width: 900px; margin: auto;">
+  
+  <!-- GIF Lateral (Controlado por CSS) -->
+  <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" align="right" width="220px" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;" />
 
-<br/>
+  <!-- Texto Ajustado (Alinhado à esquerda) -->
+  <div align="left">
+    Fanta, Here — focado em desenvolvimento, automações e performance. <br>
+    Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas. <br>
+    Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos. <br>
+    <b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre. <br>
+  </div>
+  
+</div>
+
+<!-- Limpa o alinhamento do GIF para não quebrar o resto da página -->
+<br clear="both">
 
 <!-- Bloco "Connect" -->
 <div align="center">
@@ -63,10 +64,10 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" Ajustado -->
+  <!-- Bloco "GitHub Stats" (Limpo) -->
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true" />
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight&hide_border=true" />
