@@ -12,23 +12,22 @@
 
 </div>
 
-<!-- Linha Horizontal Sutil -->
-<hr>
+<br/>
 
-<!-- Bloco "About Me" com o seu GIF novo ao lado -->
-<h3>⚡ About Me</h3>
+<!-- Bloco "About Me" com Tabela Invisível (Sem bordas, alinhado perfeitamente) -->
+<h3 align="center">⚡ About Me</h3>
 
-<table width="100%">
+<table width="100%" style="border: none; background: transparent;">
   <tr>
-    <td width="65%" align="left" valign="top">
+    <td width="60%" align="left" valign="middle" style="border: none;">
       <p>Fanta, Here — focado em desenvolvimento, automações e performance.</p>
       <p>Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas.</p>
       <p>Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos.</p>
       <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Seu GIF do Pinterest posicionado aqui -->
-      <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" width="160px" style="border-radius: 10px;" />
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <!-- Seu GIF formatado e sem bordas pesadas -->
+      <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" width="220px" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -64,14 +63,13 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" -->
+  <!-- Bloco "GitHub Stats" Ajustado -->
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttackAlien&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight&hide_border=true" />
   </p>
 
 </div>
