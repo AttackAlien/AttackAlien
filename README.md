@@ -14,7 +14,7 @@
 
 <br/>
 
-<!-- Bloco "About Me" (Layout Fluido - Sem Borda) -->
+<!-- Bloco "About Me" (Layout Fluido - Sem Bordas) -->
 <h3 align="center">⚡ About Me</h3>
 
 <div align="center" style="max-width: 900px; margin: auto;">
@@ -64,30 +64,20 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" -->
+  <!-- Bloco "GitHub Stats" (Apenas o que está a funcionar perfeitamente) -->
   <h3>📊 GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true" />
-  </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight&hide_border=true" />
   </p>
 
-  <br/><br/>
+  <br/><br/><br/>
 
-  <!-- Bloco "Minha Jornada Dev" -->
-  <h3>🏆 Minha Jornada Dev</h3>
-  <table align="center" style="border: none;">
-    <tr>
-      <td align="left" style="border: none;">
-        <ul>
-          <li><b>Foco Atual:</b> ⚡ Automações e Performance Web</li>
-          <li><b>Linguagem Favorita:</b> 🐍 Python</li>
-          <li><b>Ferramenta Essencial:</b> 🐧 Linux & 🐳 Docker</li>
-          <li><b>Filosofia:</b> 🏗️ Código limpo é código profissional.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <!-- Rodapé: Mantra & Terminal Animado -->
+  <p align="center">
+    <em>"Talk is cheap. Show me the code."</em>
+  </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=>_+System+initialized...;>_+Ready+to+build." alt="Terminal" />
+  </p>
 
 </div>
