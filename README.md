@@ -48,28 +48,6 @@
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <br/><br/>
-
-  <!-- Bloco "Tech Stack" -->
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-
-  <br/>
-
-  <!-- Bloco "GitHub Stats" (Apenas o que está a funcionar perfeitamente) -->
-  <h3>📊 GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight&hide_border=true" />
-  </p>
-
   <br/><br/><br/>
 
   <!-- Rodapé: Mantra & Terminal Animado -->
