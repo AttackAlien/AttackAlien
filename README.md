@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Banner do gatinho programador na proporção correta -->
-  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="border-radius: 12px;" />
+  <!-- Banner do gatinho com tamanho controlado -->
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;" />
 
   <br/><br/>
+
+  <img src="https://github.com/AttackAlien.png" width="110" height="110" style="border-radius: 50%;" />
 
   # **Fanta**
   _Estudante | Desenvolvedor | Entusiasta de Tech_
 
   <br/>
 
-  <!-- Botões de Links (Estilo Bio Link) -->
   <a href="https://github.com/AttackAlien">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
