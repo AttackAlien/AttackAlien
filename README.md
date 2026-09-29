@@ -19,7 +19,7 @@
 
 <div align="center" style="max-width: 900px; margin: auto;">
   
-  <!-- GIF Lateral (Controlado por CSS) -->
+  <!-- GIF Lateral (Controlado por CSS, sem bordas) -->
   <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" align="right" width="220px" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;" />
 
   <!-- Texto Ajustado (Alinhado à esquerda) -->
@@ -71,6 +71,14 @@
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight&hide_border=true" />
+  </p>
+
+  <br/><br/>
+
+  <!-- Adicionado: Badge de Música Minimalista (Configurada com seu ID: attackalien) -->
+  <h4 align="center">🎧 Atualmente Ouvindo</h4>
+  <p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=attackalien&cover_image=true&theme=novatiy&bar_color=a855f7&bar_color_cover=false" alt="Spotify" width="350px" />
   </p>
 
 </div>
