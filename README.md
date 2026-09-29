@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Testado e Garantido (Hosting GitHub Seguro) -->
-  <img src="https://raw.githubusercontent.com/soufanta/soufanta/main/banner.gif" width="100%" style="border-radius: 10px;" />
+  <!-- Banner horizontal animado funcionando perfeitamente no topo -->
+  <img src="https://media1.giphy.com/media/xT5LMPj8P2CDnGsvqY/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
 
@@ -16,7 +16,6 @@
   
 </div>
 
-<!-- Texto Centralizado (Markdown Puro) -->
 <p align="center">
 Fanta, Here — focado em desenvolvimento, automações e performance.
 Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas.
@@ -55,7 +54,6 @@ Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos.
   <br/>
 
   <h3>📊 GitHub Stats</h3>
-  <!-- Estatísticas em Tema Escuro Corrigidas -->
   <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=dark" />
