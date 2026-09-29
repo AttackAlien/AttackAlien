@@ -1,10 +1,11 @@
 <div align="center">
 
-  <!-- Banner do gatinho com tamanho controlado -->
-  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;" />
+  <!-- Banner na proporção certa, sem esticar -->
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" style="border-radius: 12px;" />
 
   <br/><br/>
 
+  <!-- Sua foto de perfil redonda -->
   <img src="https://github.com/AttackAlien.png" width="110" height="110" style="border-radius: 50%;" />
 
   # **Fanta**
@@ -12,6 +13,7 @@
 
   <br/>
 
+  <!-- Botões de Links (Estilo Bio Link) -->
   <a href="https://github.com/AttackAlien">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
