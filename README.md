@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner com altura maior para dar mais destaque visual -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=28&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 12px;" />
+  <!-- Banner horizontal personalizado com o seu GIF -->
+  <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
 
