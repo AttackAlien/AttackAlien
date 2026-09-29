@@ -1,39 +1,34 @@
 <div align="center">
 
-  <!-- Banner Dark Cyberpunk do topo -->
-  <img src="https://media1.giphy.com/media/xT5LMPj8P2CDnGsvqY/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <!-- Banner Testado e Garantido (Hosting GitHub Seguro) -->
+  <img src="https://raw.githubusercontent.com/soufanta/soufanta/main/banner.gif" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
   <h1>Hi 🫱🏼‍🫲🏽, Imma Fanta</h1>
   <p><b>Backend & Fullstack Developer</b></p>
   <p><em>Just Code & Build Things</em></p>
-
   <p>Building reliable systems with clean architecture and scalable solutions.</p>
 
   <br/>
 
   <h3>⚡ About Me</h3>
+  
+</div>
 
-  <table width="100%">
-    <tr>
-      <td width="65%" align="left">
-        <p>Fanta, Here — focado em desenvolvimento, automações e performance.</p>
-        <p>Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas.</p>
-        <p>Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos.</p>
-        <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
-      </td>
-      <td width="35%" align="center">
-        <!-- GIF lateral garantido -->
-        <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="160px" />
-      </td>
-    </tr>
-  </table>
+<!-- Texto Centralizado (Markdown Puro) -->
+<p align="center">
+Fanta, Here — focado em desenvolvimento, automações e performance.
+Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas.
+Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos.
+<b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.
+</p>
 
-  <br/>
+<br/>
+
+<div align="center">
 
   <h3>💻 Connect</h3>
-
   <a href="https://github.com/AttackAlien">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -47,7 +42,6 @@
   <br/><br/>
 
   <h3>🛠️ Tech Stack</h3>
-
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -56,18 +50,14 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 
   <br/>
 
   <h3>📊 GitHub Stats</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=tokyonight" />
-  </p>
+  <!-- Estatísticas em Tema Escuro Corrigidas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttackAlien&theme=dark" />
 
 </div>
