@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner estilo pixel art / monocromático do topo -->
-  <img src="https://images.tcdn.com.br/img/editor/up/1054238/Criacao_de_banner_para_GitHub_Perfil_1_.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <!-- Banner Dark Cyberpunk do topo -->
+  <img src="https://media1.giphy.com/media/xT5LMPj8P2CDnGsvqY/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
 
@@ -24,8 +24,8 @@
         <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
       </td>
       <td width="35%" align="center">
-        <!-- Imagem lateral em pixel art (estilo astronauta/cyber) -->
-        <img src="https://media1.giphy.com/media/uVOTxMagG8XSVMXhGs/giphy.gif" width="180px" />
+        <!-- GIF lateral garantido -->
+        <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="160px" />
       </td>
     </tr>
   </table>
