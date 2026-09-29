@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- SEU BANNER COM O LINK CORRETO -->
+  <!-- Banner do Topo -->
   <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
@@ -15,7 +15,7 @@
 <!-- Linha Horizontal Sutil -->
 <hr>
 
-<!-- Bloco "About Me" com Alinhamento Lateral -->
+<!-- Bloco "About Me" com o seu GIF novo ao lado -->
 <h3>⚡ About Me</h3>
 
 <table width="100%">
@@ -27,8 +27,8 @@
       <p><b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- GIF/Imagem lateral -->
-      <img src="https://media1.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="160px" />
+      <!-- Seu GIF do Pinterest posicionado aqui -->
+      <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" width="160px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
