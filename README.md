@@ -14,25 +14,19 @@
 
 <br/>
 
-<!-- Bloco "About Me" (Layout Fluido - Sem Tabela) -->
+<!-- Bloco "About Me" (Layout Fluido) -->
 <h3 align="center">⚡ About Me</h3>
 
 <div align="center" style="max-width: 900px; margin: auto;">
-  
-  <!-- GIF Lateral (Controlado por CSS, sem bordas) -->
   <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" align="right" width="220px" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;" />
-
-  <!-- Texto Ajustado (Alinhado à esquerda) -->
   <div align="left">
     Fanta, Here — focado em desenvolvimento, automações e performance. <br>
     Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas. <br>
     Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos. <br>
     <b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre. <br>
   </div>
-  
 </div>
 
-<!-- Limpa o alinhamento do GIF para não quebrar o resto da página -->
 <br clear="both">
 
 <!-- Bloco "Connect" -->
@@ -64,7 +58,7 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" (Limpo) -->
+  <!-- Bloco "GitHub Stats" (Limpo e Corrigido) -->
   <h3>📊 GitHub Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,10 +69,12 @@
 
   <br/><br/>
 
-  <!-- Adicionado: Badge de Música Minimalista (Configurada com seu ID: attackalien) -->
-  <h4 align="center">🎧 Atualmente Ouvindo</h4>
+  <!-- Rodapé: Badge Estática e Garantida (Aponta para seu perfil) -->
+  <h4 align="center">🎧 Siga-me no Spotify</h4>
   <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=attackalien&cover_image=true&theme=novatiy&bar_color=a855f7&bar_color_cover=false" alt="Spotify" width="350px" />
+    <a href="https://open.spotify.com/user/attackalien">
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+    </a>
   </p>
 
 </div>
