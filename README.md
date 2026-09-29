@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Banner do Topo (Link Original) -->
+  <!-- Banner do Topo -->
   <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
@@ -19,10 +19,10 @@
 
 <div align="center" style="max-width: 900px; margin: auto;">
   
-  <!-- GIF Lateral (Alinhado à direita, sem borda) -->
+  <!-- GIF Lateral -->
   <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" align="right" width="220px" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;" />
 
-  <!-- Texto Ajustado (Alinhado à esquerda) -->
+  <!-- Texto Alinhado à Esquerda -->
   <div align="left">
     Fanta, Here — focado em desenvolvimento, automações e performance. <br>
     Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas. <br>
@@ -64,7 +64,7 @@
 
   <br/>
 
-  <!-- Bloco "GitHub Stats" (Limpo e Corrigido) -->
+  <!-- Bloco "GitHub Stats" -->
   <h3>📊 GitHub Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AttackAlien&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,11 +75,19 @@
 
   <br/><br/>
 
-  <!-- Rodapé: Status de Música (Configurado com seu ID: attackalien) -->
-  <h4 align="center">🎧 Atualmente Ouvindo</h4>
-  <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=attackalien&cover_image=true&theme=novatiy&bar_color=a855f7&bar_color_cover=false" alt="Spotify" width="350px" />
-  </p>
-  <p align="center"><em>(O widget acima é dinâmico e pode falhar se o servidor estiver fora do ar.)</em></p>
+  <!-- Bloco "Minha Jornada Dev" -->
+  <h3>🏆 Minha Jornada Dev</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="left" style="border: none;">
+        <ul>
+          <li><b>Foco Atual:</b> ⚡ Automações e Performance Web</li>
+          <li><b>Linguagem Favorita:</b> 🐍 Python</li>
+          <li><b>Ferramenta Essencial:</b> 🐧 Linux & 🐳 Docker</li>
+          <li><b>Filosofia:</b> 🏗️ Código limpo é código profissional.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
 </div>
