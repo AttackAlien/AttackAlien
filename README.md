@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner direto (pode trocar este link por outro GIF válido quando quiser) -->
-  ![](https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+  <!-- Banner do gatinho com tamanho controlado -->
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;" />
 
   <br/><br/>
 
