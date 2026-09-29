@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner horizontal próprio para GitHub (não distorce) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=150&section=header&text=Welcome%20To%20My%20Profile&fontSize=24&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 10px;" />
+  <!-- Banner com altura maior para dar mais destaque visual -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=28&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 12px;" />
 
   <br/><br/>
 
