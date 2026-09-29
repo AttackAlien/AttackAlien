@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Banner GIF no topo (Você pode trocar o link por outro GIF que preferir) -->
-  <img src="[https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif](https://pin.it/4o9z1YzP0)" width="100%" style="border-radius: 10px;" />
+  <img src="<img width="502" height="282" alt="image" src="https://github.com/user-attachments/assets/6d66ca6a-297c-4ec2-a684-eeca98f82070" />
+" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
