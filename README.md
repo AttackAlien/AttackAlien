@@ -14,19 +14,25 @@
 
 <br/>
 
-<!-- Bloco "About Me" (Layout Fluido) -->
+<!-- Bloco "About Me" (Layout Fluido - Sem Borda) -->
 <h3 align="center">⚡ About Me</h3>
 
 <div align="center" style="max-width: 900px; margin: auto;">
+  
+  <!-- GIF Lateral (Alinhado à direita, sem borda) -->
   <img src="https://i.pinimg.com/originals/2c/8b/8c/2c8b8c787363ab4436c2b2fa8b8f9f2d.gif" align="right" width="220px" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;" />
+
+  <!-- Texto Ajustado (Alinhado à esquerda) -->
   <div align="left">
     Fanta, Here — focado em desenvolvimento, automações e performance. <br>
     Eu curto construir aplicações eficientes com Python, JavaScript e arquiteturas modernas. <br>
     Atualmente explorando novas ferramentas, otimizando fluxos e escalando projetos. <br>
     <b>Meu objetivo é simples:</b> escrever código limpo, criar softwares confiáveis e evoluir sempre. <br>
   </div>
+  
 </div>
 
+<!-- Limpa o alinhamento do GIF -->
 <br clear="both">
 
 <!-- Bloco "Connect" -->
@@ -69,12 +75,11 @@
 
   <br/><br/>
 
-  <!-- Rodapé: Badge Estática e Garantida (Aponta para seu perfil) -->
-  <h4 align="center">🎧 Siga-me no Spotify</h4>
+  <!-- Rodapé: Status de Música (Configurado com seu ID: attackalien) -->
+  <h4 align="center">🎧 Atualmente Ouvindo</h4>
   <p align="center">
-    <a href="https://open.spotify.com/user/attackalien">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
-    </a>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=attackalien&cover_image=true&theme=novatiy&bar_color=a855f7&bar_color_cover=false" alt="Spotify" width="350px" />
   </p>
+  <p align="center"><em>(O widget acima é dinâmico e pode falhar se o servidor estiver fora do ar.)</em></p>
 
 </div>
