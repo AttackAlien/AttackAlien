@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner horizontal animado funcionando perfeitamente no topo -->
-  <img src="https://media1.giphy.com/media/xT5LMPj8P2CDnGsvqY/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="[https://media1.giphy.com/media/xT5LMPj8P2CDnGsvqY/giphy.gif](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif)" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
   <br/><br/>
 
